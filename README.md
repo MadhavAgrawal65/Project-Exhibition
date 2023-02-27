@@ -1,6 +1,6 @@
 Swachh Bharat Sprint
 
-This repository is for the HTML5 Group Project developed by group 26.
+This repository is for the Project Exhibition developed by group 26.
 The project is a Javascript-based game that can be run by simply downloading the repository and opening the index.html file in your browser.
 
 
